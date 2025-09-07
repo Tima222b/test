@@ -18,3 +18,9 @@ function hide() {
         region[i].style.display = "none";
     }
 }
+
+
+
+
+
+
